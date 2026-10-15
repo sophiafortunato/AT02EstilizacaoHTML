@@ -1,0 +1,2 @@
+# Atividade 02 - Estilização básica com HTML
+📖 Nesta atividade realizei a criação de um site estilizado com as ferramentas que aprendi a utilizar em HTML. Nela eu decidi criar uma doceria fictícia onde o usuário poderia ver a história da marca, seus produtos e respectivos preços.
